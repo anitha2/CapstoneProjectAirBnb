@@ -1,4 +1,4 @@
-# CapstoneProject-AirBnb Proposal Submission #
+# CapstoneProject-AirBnb Proposal and Report Submission #
  
 ## Predict Singapore Airbnb Rental Prices ## 
 
